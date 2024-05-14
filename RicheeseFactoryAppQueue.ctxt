@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RicheeseFactoryAppQueue
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=RicheeseQueue
+comment2.target=void\ writeDataToFile(Queue)
+comment3.params=RicheeseQueue
+comment3.target=void\ readDataFromFile(Queue)
+comment4.params=
+comment4.target=void\ displayMenu()
+comment5.params=
+comment5.target=void\ paymentMethod()
+numComments=6
